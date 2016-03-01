@@ -18,5 +18,5 @@
     <string name="ok">OK</string>
     <string name="sign_in">Sign in</string>
     <string name="fingerprint_description">Confirm fingerprint to continue</string>
-    <string name="this_is_uaf_asm">this is uaf asm</string>
+    <string name="this_is_uaf_asm">This is uaf asm,Contain fingerprint and face authenticator.</string>
 </resources>
